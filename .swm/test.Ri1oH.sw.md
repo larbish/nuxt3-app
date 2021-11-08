@@ -31,7 +31,7 @@ With Nuxt 3, the `pages/` directory is optional, if not present, Nuxt won't incl
 🟩 4          <NuxtWelcome />
 🟩 5        </div>
 🟩 6      </template>
-⬜ 7      
+🟩 7      
 ```
 
 <br/>
